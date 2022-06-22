@@ -1,4 +1,4 @@
 # Calculator 🖩
 
 
-![Calculator - Google Chrome 22 06 2022 12_16_26 (3)](https://user-images.githubusercontent.com/83772404/174993202-ef469733-394b-495d-ab8c-22cc30f70c6a.png)
+![Calculator-Google-Chrome-2022-06-22-12-21-22](https://user-images.githubusercontent.com/83772404/174994016-cdac220d-8fa8-4bc8-8a71-f7224c85f995.gif)
